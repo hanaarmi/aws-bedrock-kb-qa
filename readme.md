@@ -19,9 +19,10 @@ AWS Bedrock Knowledge Base와 Streamlit을 활용한 Q&A 애플리케이션입�
 ## 📦 Installation
 
 1. 저장소 클론
-bash
+```bash
 git clone <repository-url>
 cd <repository-name>
+```
 
 2. 의존성 설치
 ```bash
